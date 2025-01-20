@@ -1,0 +1,22 @@
+.main {
+	box-shadow: 5px 20px 50px #636262;
+}
+
+.button-style {
+    background: #006400;
+}
+
+.error-style {
+    color: red;
+    font-size: 12px;
+}
+
+.main-class {
+	font-size: 1.6em;
+	justify-content: center;
+    color: #023302;
+	display: flex;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s ease-in-out;
+}
